@@ -4,12 +4,12 @@
  ## Description:
     With this generator creating a readME file becomes a simple task, just provide answers to the prompted questions and a file will be created for you.   
 # Table of Contents
-* [Installation] 
-* [Usage] 
-* [Contributions]
-* [Test]
-* [License]
-* [Questions] 
+* [Installation](#instructions)
+* [Usage](#usage) 
+* [Contributions](#contributions)
+* [Test](#testing)
+* [License](#license)
+* [Questions](#questions)
 
 
 
@@ -32,3 +32,5 @@
 * [GitHub](https://github.com/jackier94)
 
 * Email: jaquir16@gmail.com)
+
+* instructional video: https://drive.google.com/file/d/1_4NscEHqH6VSZAsMzTHOHZu9eHBdHr_g/view
